@@ -5,9 +5,12 @@ Title: Sustainability: Performance, Preferences, and Beliefs
 Authors: Valentin Luz, Victor Schauer, Martin Viehweger
 Institution: Ludwig-Maximilians-Universität Munich
 
+------------------------------
+
 Screenshots of the experiment
 
-Flussdiagram
+
+Flow chart
 
 
 
