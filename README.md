@@ -7,10 +7,10 @@ Institution: Ludwig-Maximilians-Universität Munich
 
 ------------------------------
 
-Screenshots of the experiment
+1) Flow chart of the experiment
 
 
-Flow chart
+2) Screenshots of the experiment, incl. all treatments
 
 
 
