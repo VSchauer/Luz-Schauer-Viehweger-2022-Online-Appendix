@@ -17,7 +17,7 @@ Institution: Ludwig-Maximilians-Universität Munich <br>
 <br>
 <br>
 Please note: You can enlarge all pictures by clicking on them.<br> <br>
-<img src="https://user-images.githubusercontent.com/78644953/170071226-422db827-00f3-41aa-8b0c-9f6180be0476.png" width=80% height=80%>
+<img src="https://user-images.githubusercontent.com/78644953/170071226-422db827-00f3-41aa-8b0c-9f6180be0476.png" width=85% height=85%>
 <br>
 <br>
 <br>
