@@ -16,6 +16,7 @@ Institution: Ludwig-Maximilians-Universität Munich <br>
 <b> 1) Flow chart of the experiment </b>
 <br>
 <br>
+Please note: You can enlarge all pictures by clicking on them.<br> <br>
 <img src="https://user-images.githubusercontent.com/78644953/170071226-422db827-00f3-41aa-8b0c-9f6180be0476.png" width=75% height=75%>
 <br>
 <br>
