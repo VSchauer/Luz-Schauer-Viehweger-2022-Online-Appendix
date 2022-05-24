@@ -1,7 +1,5 @@
-# Luz-Schauer-Viehweger-2022-Online-Appendix
-Online appendix of Luz, Schauer, Viehweger (2022)
-
-Title: Sustainability: Performance, Preferences, and Beliefs <br>
+# Online Appendix of Luz, Schauer, Viehweger (2022): <br> Sustainability: Performance, Preferences, and Beliefs
+<br>
 Authors: Valentin Luz, Victor Schauer, Martin Viehweger <br>
 Institution: Ludwig-Maximilians-Universität Munich <br>
 
@@ -18,9 +16,15 @@ Institution: Ludwig-Maximilians-Universität Munich <br>
 <b> 1) Flow chart of the experiment </b>
 <br>
 <br>
+<img src="https://user-images.githubusercontent.com/78644953/170071226-422db827-00f3-41aa-8b0c-9f6180be0476.png" width=75% height=75%>
+<br>
+<br>
+<br>
 <b> 2) Screenshots of the experiment </b>
 <br>
 <br>
+The screenshots show the example of a participant in treatment group 2 (visual sustainability report for firm A).<br>
+
 ![Page 1_Introduction](https://user-images.githubusercontent.com/78644953/170060919-86947f43-3b30-4414-9fd1-a2e457c0d729.png)
 ![Page 2_Instruction_1](https://user-images.githubusercontent.com/78644953/170060858-84e10f49-7f72-49a7-b871-68f09f80ba46.png)
 ![Page 2_Instruction_2](https://user-images.githubusercontent.com/78644953/170060862-833d96ba-1d2c-4f81-8ddc-e745b00a56b4.png)
@@ -39,14 +43,14 @@ Institution: Ludwig-Maximilians-Universität Munich <br>
 ![Page 9_Survey_1](https://user-images.githubusercontent.com/78644953/170060910-5ff44909-e572-41b7-a0e2-7a48f3cfb305.png)
 ![Page 9_Survey_2](https://user-images.githubusercontent.com/78644953/170066340-b79bee81-6d03-4700-b603-8a5b8e6741ef.png)
 ![Page 9_Survey_3](https://user-images.githubusercontent.com/78644953/170066535-a6eaa303-4d9b-4cc7-9708-c99534388f80.png)
-![Page 10_Results_TEST2](https://user-images.githubusercontent.com/78644953/170066874-be2270a1-caa5-44bf-b4cb-e8f3e67046ac.png)
-
-
-
+![Page 10_Results](https://user-images.githubusercontent.com/78644953/170069591-f4ded792-54d4-4dc7-b6f5-a4124852fbe6.png)
+<br>
+<br>
+<br>
 <b> 3) All treatment manipulations in detail </b>
 <br>
 <br>
-
+While financial information is the same for all experimental groups the sustainability information is manipulated across groups.
 ![Page 5_Financial_Info](https://user-images.githubusercontent.com/78644953/170060872-3314432c-b8f7-4099-9660-5ff62e17478c.png)
 ![Page 6_Sus_Info_A](https://user-images.githubusercontent.com/78644953/170060882-0876a837-c1a0-45f6-84fd-dc673b383de7.jpg)
 ![Page 6_Sus_Info_B](https://user-images.githubusercontent.com/78644953/170060895-e4163919-afa6-4f8c-b14d-c06704ac38f2.jpg)
