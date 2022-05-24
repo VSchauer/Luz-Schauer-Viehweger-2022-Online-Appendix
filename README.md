@@ -51,6 +51,8 @@ The screenshots show the example of a participant in treatment group 2 (visual s
 <br>
 <br>
 While financial information is the same for all experimental groups the sustainability information is manipulated across groups.
+<br>
+<br>
 ![Page 5_Financial_Info](https://user-images.githubusercontent.com/78644953/170060872-3314432c-b8f7-4099-9660-5ff62e17478c.png)
 ![Page 6_Sus_Info_A](https://user-images.githubusercontent.com/78644953/170060882-0876a837-c1a0-45f6-84fd-dc673b383de7.jpg)
 ![Page 6_Sus_Info_B](https://user-images.githubusercontent.com/78644953/170060895-e4163919-afa6-4f8c-b14d-c06704ac38f2.jpg)
