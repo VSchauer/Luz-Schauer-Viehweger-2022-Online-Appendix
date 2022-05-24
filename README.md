@@ -17,7 +17,7 @@ Institution: Ludwig-Maximilians-Universität Munich <br>
 <br>
 <br>
 Please note: You can enlarge all pictures by clicking on them.<br> <br>
-<img src="https://user-images.githubusercontent.com/78644953/170077967-96ab766f-f189-40c7-aab6-33d10f1e674d.png" width=75% height=75%>
+<img src="https://user-images.githubusercontent.com/78644953/170078125-e0fa487b-bfc1-41f6-8067-1a21160462ff.png" width=70% height=70%>
 <br>
 <br>
 <b> 2) Screenshots of the experiment </b>
