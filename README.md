@@ -7,13 +7,26 @@ Institution: Ludwig-Maximilians-Universität Munich <br>
 
 ------------------------------
 
+<b> Table of Contents </b>
+
+1) Flow chart of the experiment
+2) Screenshots of the experiment
+3) All treatment manipulations in detail
+
+------------------------------
+
 <b> 1) Flow chart of the experiment </b>
+<br>
+<br>
+<img src="https://user-images.githubusercontent.com/78644953/170052819-55bff280-83ab-438c-8540-97a224508ced.png" width=75% height=75%>
 
-![Experiment_Flowchart](https://user-images.githubusercontent.com/78644953/170052819-55bff280-83ab-438c-8540-97a224508ced.png)
+<b> 2) Screenshots of the experiment </b>
+<br>
+<br>
 
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/78644953/170052819-55bff280-83ab-438c-8540-97a224508ced.png)" width="100" height="100">
-
-<b> 2) Screenshots of the experiment, incl. all treatments </b>
+<b> 3) All treatment manipulations in detail </b>
+<br>
+<br>
 
 
 
