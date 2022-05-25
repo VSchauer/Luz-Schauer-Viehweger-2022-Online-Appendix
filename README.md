@@ -17,10 +17,9 @@ Institution: Ludwig-Maximilians-Universität Munich <br>
 <br>
 <br>
 Please note: You can enlarge all pictures by clicking on them.<br> <br>
-<img src="https://user-images.githubusercontent.com/78644953/170256836-f9c913f9-55bb-46ec-8a9f-615e320bba4a.png" width=70% height=70%>
+<img width="529" alt="Flowchart_new" src="https://user-images.githubusercontent.com/78644953/170264244-f7556c5f-aac8-4a9b-8799-088ba0968fcc.png">
 <br>
-<br><img width="529" alt="Flowchart_new" src="https://user-images.githubusercontent.com/78644953/170264244-f7556c5f-aac8-4a9b-8799-088ba0968fcc.png">
-
+<br>
 <b> 2) Screenshots of the experiment </b>
 <br>
 <br>
