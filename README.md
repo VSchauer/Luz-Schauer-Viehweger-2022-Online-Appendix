@@ -7,19 +7,19 @@ Institution: Ludwig-Maximilians-Universität Munich <br>
 
 <b> Table of Contents </b>
 
-1) Flow chart of the experiment
-2) Screenshots of the experiment
-3) All treatment manipulations in detail
+A1) Flow chart of the experiment
+A2) Screenshots of the experiment
+A3) All treatment manipulations in detail
 
 ------------------------------
 
-<b> 1) Flow chart of the experiment </b>
+<b> A1) Flow chart of the experiment </b>
 <br>
 <br>
 Please note: You can enlarge all pictures by clicking on them.<br> <br>
 <img src="https://user-images.githubusercontent.com/78644953/171002879-8274dff1-7202-4935-b936-851d3cc1658a.png" width="75%">
 <br>
-<b> 2) Screenshots of the experiment </b>
+<b> A2) Screenshots of the experiment </b>
 <br>
 <br>
 The screenshots show the example of a participant in treatment group 2 (visual sustainability report for firm A).<br>
@@ -46,7 +46,7 @@ The screenshots show the example of a participant in treatment group 2 (visual s
 <br>
 <br>
 <br>
-<b> 3) All treatment manipulations in detail </b>
+<b> A3) All treatment manipulations in detail </b>
 <br>
 <br>
 While financial information is the same for all experimental groups the sustainability information is manipulated across groups.
