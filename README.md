@@ -7,13 +7,13 @@ Institution: Ludwig-Maximilians-Universität Munich <br>
 
 <b> Table of Contents </b>
 
-A1) Flow chart of the experiment
+A1) Flowchart of the experiment
 A2) Screenshots of the experiment
 A3) All treatment manipulations in detail
 
 ------------------------------
 
-<b> A1) Flow chart of the experiment </b>
+<b> A1) Flowchart of the experiment </b>
 <br>
 <br>
 Please note: You can enlarge all pictures by clicking on them.<br> <br>
