@@ -17,8 +17,7 @@ Institution: Ludwig-Maximilians-Universität Munich <br>
 <br>
 <br>
 Please note: You can enlarge all pictures by clicking on them.<br> <br>
-<img width="529" alt="Flowchart_new" src="https://user-images.githubusercontent.com/78644953/170264244-f7556c5f-aac8-4a9b-8799-088ba0968fcc.png">
-<br>
+<img src="https://user-images.githubusercontent.com/78644953/171002879-8274dff1-7202-4935-b936-851d3cc1658a.png" width="75%">
 <br>
 <b> 2) Screenshots of the experiment </b>
 <br>
@@ -26,10 +25,10 @@ Please note: You can enlarge all pictures by clicking on them.<br> <br>
 The screenshots show the example of a participant in treatment group 2 (visual sustainability report for firm A).<br>
 
 ![Page 1_Introduction](https://user-images.githubusercontent.com/78644953/170060919-86947f43-3b30-4414-9fd1-a2e457c0d729.png)
-![Page 2_Instruction_1](https://user-images.githubusercontent.com/78644953/170060858-84e10f49-7f72-49a7-b871-68f09f80ba46.png)
-![Page 2_Instruction_2](https://user-images.githubusercontent.com/78644953/170060862-833d96ba-1d2c-4f81-8ddc-e745b00a56b4.png)
+
 ![Page 3_Comprehension Questions](https://user-images.githubusercontent.com/78644953/170065281-56b5dfd1-7304-4226-b2b0-7053797742c5.png)
 ![Page 4_Game Instructions](https://user-images.githubusercontent.com/78644953/170065287-b9abd5da-09fc-450e-97e5-5c2af0db4ad5.png)
+![Page 2_Instructions](https://user-images.githubusercontent.com/78644953/171001450-aa86ff8f-6434-418c-91e3-66128779c0e0.png)
 
 ![Page 5_Firm A_Fin_1](https://user-images.githubusercontent.com/78644953/170068495-3a143920-773c-4546-9ba1-e4d4073d7579.png)
 ![Page 5_Firm A_Fin_2](https://user-images.githubusercontent.com/78644953/170068498-4957ee0a-480b-4453-907c-59d94f43a447.png)
@@ -53,6 +52,11 @@ The screenshots show the example of a participant in treatment group 2 (visual s
 While financial information is the same for all experimental groups the sustainability information is manipulated across groups.
 <br>
 <br>
+<b>Financial information for firm A and firm B</b>
 ![Page 5_Financial_Info](https://user-images.githubusercontent.com/78644953/170060872-3314432c-b8f7-4099-9660-5ff62e17478c.png)
+<br>
+<b>Visual versus narrative sustainability information for firm A</b> (weak sustainability performance)
 ![Page 6_Sus_Info_A](https://user-images.githubusercontent.com/78644953/170060882-0876a837-c1a0-45f6-84fd-dc673b383de7.jpg)
+<br>
+<b>Visual versus narrative sustainability information for firm B</b> (strong sustainability performance)
 ![Page 6_Sus_Info_B](https://user-images.githubusercontent.com/78644953/170060895-e4163919-afa6-4f8c-b14d-c06704ac38f2.jpg)
