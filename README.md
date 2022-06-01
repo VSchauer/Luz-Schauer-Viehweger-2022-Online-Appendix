@@ -23,9 +23,10 @@ Please note: You can enlarge all pictures by clicking on them.<br> <br>
 <b> A2) Screenshots of the experiment </b>
 <br>
 <br>
-The screenshots show the example of a participant in treatment group 2 (visual sustainability report for firm A).<br>
-
-![Page 1_Introduction](https://user-images.githubusercontent.com/78644953/170060919-86947f43-3b30-4414-9fd1-a2e457c0d729.png)
+The screenshots show the example of a participant in treatment group 2 (visual sustainability report for firm A).
+<br>
+<br>
+![Page 1_Introduction_new](https://user-images.githubusercontent.com/78644953/171346028-c8a53f30-4a51-4c82-912c-421694e5b8c2.png)
 
 ![Page 2_Instructions_new](https://user-images.githubusercontent.com/78644953/171345731-c73d072b-f477-4d76-8e70-d58e91aff8ba.png)
 ![Page 3_Comprehension Questions](https://user-images.githubusercontent.com/78644953/170065281-56b5dfd1-7304-4226-b2b0-7053797742c5.png)
