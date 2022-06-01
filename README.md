@@ -27,9 +27,9 @@ The screenshots show the example of a participant in treatment group 2 (visual s
 
 ![Page 1_Introduction](https://user-images.githubusercontent.com/78644953/170060919-86947f43-3b30-4414-9fd1-a2e457c0d729.png)
 
+![Page 2_Instructions](https://user-images.githubusercontent.com/78644953/171001450-aa86ff8f-6434-418c-91e3-66128779c0e0.png)
 ![Page 3_Comprehension Questions](https://user-images.githubusercontent.com/78644953/170065281-56b5dfd1-7304-4226-b2b0-7053797742c5.png)
 ![Page 4_Game Instructions](https://user-images.githubusercontent.com/78644953/170065287-b9abd5da-09fc-450e-97e5-5c2af0db4ad5.png)
-![Page 2_Instructions](https://user-images.githubusercontent.com/78644953/171001450-aa86ff8f-6434-418c-91e3-66128779c0e0.png)
 
 ![Page 5_Firm A_Fin_1](https://user-images.githubusercontent.com/78644953/170068495-3a143920-773c-4546-9ba1-e4d4073d7579.png)
 ![Page 5_Firm A_Fin_2](https://user-images.githubusercontent.com/78644953/170068498-4957ee0a-480b-4453-907c-59d94f43a447.png)
