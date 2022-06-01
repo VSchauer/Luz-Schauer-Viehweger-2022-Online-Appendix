@@ -7,8 +7,8 @@ Institution: Ludwig-Maximilians-Universität Munich <br>
 
 <b> Table of Contents </b>
 
-A1) Flowchart of the experiment
-A2) Screenshots of the experiment
+A1) Flowchart of the experiment <br>
+A2) Screenshots of the experiment <br>
 A3) All treatment manipulations in detail
 
 ------------------------------
