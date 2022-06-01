@@ -17,8 +17,7 @@ A3) All treatment manipulations in detail
 <br>
 <br>
 Please note: You can enlarge all pictures by clicking on them.<br> <br>
-<img src="https://user-images.githubusercontent.com/78644953/171002879-8274dff1-7202-4935-b936-851d3cc1658a.png" width="75%">
-<br>
+<img src="https://user-images.githubusercontent.com/78644953/171343226-282ba1d0-9813-40b3-b7e9-c5e19a6cf89a.jpg" width="75%">
 <br>
 <br>
 <b> A2) Screenshots of the experiment </b>
