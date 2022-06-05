@@ -1,7 +1,7 @@
 # Online Appendix of Luz, Schauer, Viehweger (2022): <br> Sustainability: Performance, Preferences, and Beliefs
 <br>
 Authors: Valentin Luz, Victor Schauer, Martin Viehweger <br>
-Institution: Ludwig-Maximilians-Universität Munich <br>
+Institution: Ludwig-Maximilians-Universität München <br>
 
 ------------------------------
 
