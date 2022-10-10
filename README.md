@@ -1,4 +1,5 @@
-# Online Appendix of Sustainability: Performance, Preferences, and Beliefs
+# Sustainability: Performance, Preferences, and Beliefs
+# Online Appendix
 
 ------------------------------
 
