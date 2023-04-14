@@ -5,20 +5,12 @@ Online Appendix </b>
 
 <b> Table of Contents </b>
 
-A1) Flowchart of the experiment <br>
-A2) Screenshots of the experiment <br>
-A3) All treatment manipulations in detail
+A1) Screenshots of the experiment <br>
+A2) All treatment manipulations in detail
 
 ------------------------------
 
-<b> A1) Flowchart of the experiment </b>
-<br>
-<br>
-Please note: You can enlarge all pictures by clicking on them.<br> <br>
-<img src="https://user-images.githubusercontent.com/78644953/171343226-282ba1d0-9813-40b3-b7e9-c5e19a6cf89a.jpg" width="75%">
-<br>
-<br>
-<b> A2) Screenshots of the experiment </b>
+<b> A1) Screenshots of the experiment </b>
 <br>
 <br>
 The screenshots show the example of a participant in treatment group 2 (visual sustainability report for firm A).
@@ -46,7 +38,7 @@ The screenshots show the example of a participant in treatment group 2 (visual s
 <br>
 <br>
 <br>
-<b> A3) All treatment manipulations in detail </b>
+<b> A2) All treatment manipulations in detail </b>
 <br>
 <br>
 While financial information is the same for all experimental groups the sustainability information is manipulated across groups.
