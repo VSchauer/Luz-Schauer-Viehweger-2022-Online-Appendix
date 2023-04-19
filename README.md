@@ -32,7 +32,7 @@ The screenshots show the example of a participant in treatment group 2 (visual s
 ![Page 8_Survey_1](https://user-images.githubusercontent.com/78644953/170060905-8879a979-b8db-4945-8997-2ba8cb874b56.png)
 ![Page 8_Survey_2](https://user-images.githubusercontent.com/78644953/170060908-ee88908d-3c7f-4bd6-a66e-bb8d076a7ca1.png)
 ![Page 9_Survey_1](https://user-images.githubusercontent.com/78644953/170060910-5ff44909-e572-41b7-a0e2-7a48f3cfb305.png)
-![Page 9_Survey_2](https://user-images.githubusercontent.com/78644953/170066340-b79bee81-6d03-4700-b603-8a5b8e6741ef.png)
+![Page 9_Survey_2](https://user-images.githubusercontent.com/78644953/233063526-f16fdaf0-2f70-44bb-a119-62b9714cd8ea.png)
 ![Page 9_Survey_3](https://user-images.githubusercontent.com/78644953/170066535-a6eaa303-4d9b-4cc7-9708-c99534388f80.png)
 ![Page 10_Results](https://user-images.githubusercontent.com/78644953/170069591-f4ded792-54d4-4dc7-b6f5-a4124852fbe6.png)
 <br>
@@ -52,3 +52,4 @@ While financial information is the same for all experimental groups the sustaina
 <br>
 <b>Visual versus narrative sustainability information for firm B</b> (strong sustainability performance)
 ![Page 6_Sus_Info_B](https://user-images.githubusercontent.com/78644953/170060895-e4163919-afa6-4f8c-b14d-c06704ac38f2.jpg)
+
