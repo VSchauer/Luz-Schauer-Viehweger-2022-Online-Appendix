@@ -1,4 +1,4 @@
-<b> Beyond Preferences: Higher-Order Beliefs in Sustainable Investing
+<b> Beyond Preferences: Beliefs in Sustainable Investing
 <br>
 Online Appendix </b>
 
